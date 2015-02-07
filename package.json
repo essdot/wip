@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/essdot/wip",
   "devDependencies": {
-    "tape": "^3.5.0"
+    "tape": "^3.5.0",
+    "through": "^2.3.6"
   }
 }
